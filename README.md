@@ -1,2 +1,2 @@
 # tailwindcss_demo
-try out some tailwind
+try out some tailwind features
