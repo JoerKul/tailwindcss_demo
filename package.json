@@ -1,0 +1,27 @@
+{
+  "name": "tailwindcss_demo",
+  "version": "1.0.0",
+  "description": "try out some tailwind features",
+  "main": "postcss.config.js",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "postcss css/tailwind.css -o css/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoerKul/tailwindcss_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoerKul/tailwindcss_demo/issues"
+  },
+  "homepage": "https://github.com/JoerKul/tailwindcss_demo#readme"
+}
