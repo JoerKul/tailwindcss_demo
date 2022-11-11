@@ -27,7 +27,7 @@ function Navbar() {
       <div
         className={
           showMenu
-            ? "bg-slate-900 absolute w-64 h-screen top-20 left-0 "
+            ? "bg-slate-900 absolute w-64 h-screen top-20 left-0 sm:hidden"
             : "hidden"
         }
       >

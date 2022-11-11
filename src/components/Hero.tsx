@@ -12,12 +12,13 @@ function Hero() {
           Grow with data.
         </div>
         <div className="sm:text-xl lg:text-2xl">
-          Fast, flexible financing for{" "}
+          Fast, flexible financing for
           <Typed
             strings={["BTC", "B2B", "SASS"]}
             typeSpeed={80}
             backSpeed={100}
             loop
+            className="text-slate-500 mx-2"
           />
         </div>
 
