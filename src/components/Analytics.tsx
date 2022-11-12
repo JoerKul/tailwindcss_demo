@@ -17,7 +17,7 @@ function Analytics() {
         <div className="text-3xl font-semibold">
           Manage Data Analytics Centrally
         </div>
-        <div>
+        <div className="lg:mr-24">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est maiores
           dolore rem distinctio asperiores suscipit quisquam perspiciatis iure
           nam. Iure nihil facilis quis numquam sunt magnam illum harum

@@ -27,8 +27,8 @@ function Navbar() {
       <div
         className={
           showMenu
-            ? "bg-slate-900 absolute w-64 h-screen top-20 left-0 sm:hidden"
-            : "hidden"
+            ? "bg-slate-900 absolute w-64 h-screen top-20 left-0  ease-in transition-all transform duration-400 sm:hidden"
+            : "top-20 -left-60  absolute"
         }
       >
         <ul className="flex flex-col p-6 font-light gap-4">
