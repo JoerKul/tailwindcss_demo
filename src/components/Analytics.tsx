@@ -23,7 +23,7 @@ function Analytics() {
           nam. Iure nihil facilis quis numquam sunt magnam illum harum
           architecto ipsam!
         </div>
-        <button className="bg-emerald-400 py-2 px-8 mx-auto sm:mx-0 sm:w-40 rounded-md mt-8 text-slate-900">
+        <button className="bg-emerald-400 py-2 px-8 mx-auto sm:mx-0 sm:w-40 rounded-md mt-4 text-slate-900">
           Get Started
         </button>
       </div>
