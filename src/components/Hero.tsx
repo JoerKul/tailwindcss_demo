@@ -3,7 +3,7 @@ import Typed from "react-typed";
 
 function Hero() {
   return (
-    <div>
+    <div className="bg-slate-900 text-white">
       <div className="h-screen flex flex-col justify-center items-center -mt-20  gap-3">
         <div className="text-emerald-400 text-xl uppercase sm:text-2xl lg:text-3xl">
           growing with data analytics

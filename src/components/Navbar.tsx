@@ -8,8 +8,8 @@ function Navbar() {
   };
 
   return (
-    <div className="sticky top-0 z-50 bg-slate-900">
-      <div className="flex max-w-5xl mx-auto px-8 pt-8 pb-2 justify-between">
+    <div className="sticky top-0 z-50 bg-slate-900 text-white">
+      <div className="flex max-w-5xl mx-auto lg:px-0 px-8 pt-8 pb-2 justify-between">
         <h1 className="text-teal-400 font-medium text-2xl uppercase">next.</h1>
         <div className="hidden sm:flex items-center">
           <ul className="flex font-light gap-4">
