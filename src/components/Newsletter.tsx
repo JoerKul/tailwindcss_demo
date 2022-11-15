@@ -2,7 +2,7 @@ import React from "react";
 
 const Newsletter = () => {
   return (
-    <div className="bg-slate-900 text-white mx-w-5xl mx-auto">
+    <div className="bg-slate-900 text-white  mx-auto">
       <div className="grid lg:grid-cols-2 h-[20rem] items-start max-w-5xl mx-auto  text-center lg:text-left place-content-center gap-6">
         <div className="">
           <div className="text-2xl font-bold">
